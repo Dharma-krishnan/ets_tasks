@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oct10Tasks/ArrayPgrms/ArrayPgrms.iml" filepath="$PROJECT_DIR$/Oct10Tasks/ArrayPgrms/ArrayPgrms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS.iml" filepath="$PROJECT_DIR$/ETS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oct10Tasks/MatrixPgms/MatrixPgms.iml" filepath="$PROJECT_DIR$/Oct10Tasks/MatrixPgms/MatrixPgms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oct10Tasks/Oct10Tasks.iml" filepath="$PROJECT_DIR$/Oct10Tasks/Oct10Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oct16Tasks/Oct16Tasks.iml" filepath="$PROJECT_DIR$/Oct16Tasks/Oct16Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sep20Tasks/Sep20Tasks.iml" filepath="$PROJECT_DIR$/Sep20Tasks/Sep20Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sept23/Sept23.iml" filepath="$PROJECT_DIR$/Sept23/Sept23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringbuffandBuilder/StringbuffandBuilder.iml" filepath="$PROJECT_DIR$/StringbuffandBuilder/StringbuffandBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oct10Tasks/Task4-Java-hackerrank tasks/Task4-Java-hackerrank tasks.iml" filepath="$PROJECT_DIR$/Oct10Tasks/Task4-Java-hackerrank tasks/Task4-Java-hackerrank tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypack/mypack.iml" filepath="$PROJECT_DIR$/mypack/mypack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oct3Tasks/oct3Tasks.iml" filepath="$PROJECT_DIR$/oct3Tasks/oct3Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sept23/p1/p1.iml" filepath="$PROJECT_DIR$/Sept23/p1/p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sept27tasks/sept27tasks.iml" filepath="$PROJECT_DIR$/sept27tasks/sept27tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oct10Tasks/strings/strings.iml" filepath="$PROJECT_DIR$/Oct10Tasks/strings/strings.iml" />
+    </modules>
+  </component>
+</project>
